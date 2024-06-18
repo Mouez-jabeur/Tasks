@@ -1,0 +1,23 @@
+name: your_project_name
+description: A Flutter project for taking notes.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Add any other dependencies your project needs
+  # For example, if you're using provider for state management:
+  provider: ^6.0.0
+
+  # If you're using any other packages, add them here
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  # Add assets and other configurations specific to Flutter
